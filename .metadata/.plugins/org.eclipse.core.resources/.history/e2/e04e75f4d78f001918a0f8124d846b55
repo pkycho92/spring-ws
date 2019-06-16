@@ -1,0 +1,5 @@
+package websocketserver;
+
+public class WebSocketConfig {
+
+}

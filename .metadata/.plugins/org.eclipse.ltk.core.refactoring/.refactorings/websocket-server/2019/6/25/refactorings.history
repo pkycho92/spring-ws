@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;ChatServer.java&apos; to &apos;websocketserver.WebSocketConfig.java&apos;&#x0A;- Original project: &apos;websocket-server&apos;&#x0A;- Destination element: &apos;websocketserver.WebSocketConfig.java&apos;&#x0A;- Original element: &apos;ChatServer.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java&lt;websocketserver{WebSocketConfig.java" element1="/src\/main\/java&lt;{ChatServer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1560649309148" units="1" version="1.0"/>
+</session>
